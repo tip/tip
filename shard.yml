@@ -1,0 +1,12 @@
+name: github
+version: 0.1.0
+
+authors:
+  - Vlad Faust <mail@vladfaust.com>
+
+targets:
+  github:
+    main: src/github.cr
+
+crystal: 0.26.1
+
