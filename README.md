@@ -1,10 +1,10 @@
-# github
+# GitHub Bot
 
-TODO: Write a description here
+A nice project, no doubt.
 
 ## Installation
 
-TODO: Write installation instructions here
+Install and run!
 
 ## Usage
 
